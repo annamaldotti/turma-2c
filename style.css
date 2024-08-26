@@ -39,7 +39,10 @@ body{
         padding: 24px 0 ;
      }
 
-     .escola-div-conteudo
+     .escola-div-conteudo {
+      width: 35%;
+     }
+
 
      .estudante{
         padding: 24px 0;
